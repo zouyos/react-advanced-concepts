@@ -9,8 +9,8 @@ export function Level5(props) {
 
   return (
     <>
-      <div>I am level 5</div>
-      <button onClick={toggleThemeMode}>Toggle theme mode</button>
+      <div>Niveau de profondeur 5</div>
+      <button onClick={toggleThemeMode}>Changer le mode du theme </button>
     </>
   );
 }
